@@ -11,6 +11,4 @@ public class Child extends Parent{
 		testParent();
 	}
 	
-	das
-
 }
