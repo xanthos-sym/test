@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ClassDiagram>
+    <CommunicationClass name="test.Child" x="462" y="166">
+        <Extension destinationClassName="test.Parent"/>
+        <Communication destinationClassName="test.Parent"/>
+    </CommunicationClass>
+    <CommunicationClass name="test.Main" x="227" y="315">
+        <Communication destinationClassName="test.Child"/>
+    </CommunicationClass>
+    <CommunicationClass name="test.Parent" x="152" y="98"/>
+</ClassDiagram>
