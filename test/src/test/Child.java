@@ -10,5 +10,5 @@ public class Child extends Parent{
 		System.out.println("\ni am a child method\n");
 		testParent();
 	}
-	
+	asefjeklwgfjlgldfjhnl
 }
