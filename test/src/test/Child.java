@@ -7,7 +7,7 @@ public class Child extends Parent{
 	}
 	
 	public void testChild(){
-		System.out.println("\ni am a child method\n");
+		System.out.println("\ni am a child method !!!\n");
 		testParent();
 	}
 }
